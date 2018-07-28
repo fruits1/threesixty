@@ -1,0 +1,22 @@
+html{
+	background:#FFF;
+	color:#999;
+}
+
+body,
+ul,
+ol,
+p,
+.msg{
+	margin:0;
+	padding:0;	
+}
+a{
+	text-decoration:none;
+	color:#888;
+}
+ul,
+ol{
+	list-style:none;
+}
+
